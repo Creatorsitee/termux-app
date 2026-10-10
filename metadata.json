@@ -1,0 +1,8 @@
+{
+  "name": "Termux",
+  "description": "Android terminal emulator and Linux environment application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
